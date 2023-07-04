@@ -1,9 +1,7 @@
-﻿# kom_grafik
-﻿# UAS KOMPUTER GRAFIK
+#﻿UAS KOMPUTER GRAFIK
 Nama : Luzen Aji Budiman
 Nim  : 201011400391
 Kelas: 06TPLE004
-=============================
 
 Hasil Screenshot "Crop Image"
 1. Tampilan Ketika pyton di jalankan "Pyton app.py"

@@ -1,4 +1,5 @@
 #﻿UAS KOMPUTER GRAFIK
+
 Nama : Luzen Aji Budiman
 Nim  : 201011400391
 Kelas: 06TPLE004

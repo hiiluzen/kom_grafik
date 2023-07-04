@@ -17,7 +17,7 @@ Hasil Screenshot "Crop Image"
 4. Maka Hasil Crop Akan Seperti ini 
 ![image](https://github.com/hiiluzen/kom_grafik/assets/138467627/12d282ad-253c-4389-a13d-8cf9bda0bce3)
 
-Sekia
+Sekian Terima kasih
 
 
 
